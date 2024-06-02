@@ -70,8 +70,6 @@ Pour créer une alerte, rendez-vous dans l'onglet "Alertes". Pour définir l'ale
 
 ### Les librairies : 
 
-![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flearn.devsfix.com%2Fwp-content%2Fuploads%2F2022%2F10%2Fjavafx.png&f=1&nofb=1&ipt=700966bf4e2f59b0dc1361c7dfcfff53b14d207678f207c77901887e70e4fceb&ipo=images) 
-
 
 - JavaFX - version = javafx-sdk-19.0.2.1 : https://gluonhq.com/products/javafx/
 
